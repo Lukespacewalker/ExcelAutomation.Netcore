@@ -1,2 +1,1 @@
-# ExcelAutomation.Netcore
-A demo repository for Excel 365 automation using .net core and C#
+﻿# ExcelAutomation.NetcoreA demo repository for Excel 365 automation using .net core and C### System Prerequisite1. Microsoft Visual Studio 2019 16.4+ (Must install Office/SharePoint development task)2. .NET Core 3 SDK (Installed with VS2019 16.4)

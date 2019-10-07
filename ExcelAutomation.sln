@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29319.158
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ExcelAutomation", "ExcelAutomation\ExcelAutomation.csproj", "{AA10AE27-AFAD-470A-BB53-B0E8181D256A}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{AA10AE27-AFAD-470A-BB53-B0E8181D256A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{AA10AE27-AFAD-470A-BB53-B0E8181D256A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{AA10AE27-AFAD-470A-BB53-B0E8181D256A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{AA10AE27-AFAD-470A-BB53-B0E8181D256A}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {9FD670D8-5F3F-4941-90F0-5F3F1879CED8}
+	EndGlobalSection
+EndGlobal
